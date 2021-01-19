@@ -10,4 +10,4 @@
 * UL
 * UL
 ~~strike through~~
-[google.com](www.google.com "google homepage")
+[Google](www.google.com "google homepage")
