@@ -11,3 +11,5 @@
 * UL
 ~~strike through~~
 [Google](www.google.com "google homepage")
+_italic text_
+**bold text**
