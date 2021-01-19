@@ -20,8 +20,8 @@ normal text
 |---|---|---|
 |name|email|address|
 >quote
-```pwd
-
+```shell
+pwd
 echo test
 ```
 `echo hello world`
