@@ -20,7 +20,7 @@ normal text
 |---|---|---|
 |name|email|address|
 >quote
-```shell
+```bash
 pwd
 echo test
 ```
