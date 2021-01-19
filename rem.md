@@ -15,6 +15,6 @@ _italic text_
 normal text
 **bold text**
 ![tutorialImage](https://miro.medium.com/max/700/1*GvpK9-2unOPPSuN7E5VlZg.jpeg)
-a|b|c
--|-|-
-name|email|address
+|a|b|c|
+|-|-|-|
+|name|email|address|
